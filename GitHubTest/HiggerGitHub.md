@@ -5,7 +5,7 @@
 
 ----------
 
-我们开发团队小组的github地址是：https://github.com/2016335   
+我们开发团队小组的github地址是：https://github.com/2016335/best   
 ## 给同学推荐github资源 ##
 自己最近在网上找到了一些有关于GitHub有关的学习文章，希望可以帮到大家。    
 
